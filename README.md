@@ -1,2 +1,2 @@
 # Python
-Python tests
+Python tests and exercises for learning
