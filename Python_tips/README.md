@@ -1,1 +1,1 @@
-List of Python tips from internet
+Python_tips.py: List of Python tips from internet
