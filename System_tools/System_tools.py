@@ -118,7 +118,7 @@ def get_screen_size():
 
 # ---------- Function to get OS ----------
 def get_os():
-    op_system = platform.platform()
+    os = platform.platform()
     cpu = platform.processor()
     arc = platform.architecture()
 
