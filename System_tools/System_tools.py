@@ -3,6 +3,11 @@
 # --------------------------------------
 #            System tools v1.0
 # --------------------------------------
+# Script Name : System_tools.py
+# Author : Victor Prats
+# Created : 19 Oct 2018
+# Version : 1.0 
+# Description : System information: host name, IP, external IP, MAC address, screen resolution,...
 
 
 from tkinter import *
