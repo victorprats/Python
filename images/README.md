@@ -1,1 +1,1 @@
-images
+Images repository used in GitHub
