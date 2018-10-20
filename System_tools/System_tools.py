@@ -6,11 +6,11 @@
 # Script Name : System_tools.py
 # Author : Victor Prats
 # Created : 19 Oct 2018
-# Version : 1.0 
+# Version : 1.0
 # Description : System information: host name, IP, external IP, MAC address, screen resolution,...
 
-
 from tkinter import *
+import platform
 import time
 import socket
 import urllib.request
@@ -23,6 +23,10 @@ external_ip = StringVar
 mac = StringVar
 screen_width = StringVar
 screen_height = StringVar
+os = StringVar
+cpu = StringVar
+arc = StringVar
+
 
 # ---------- Create window object ----------
 root = Tk()
@@ -112,6 +116,21 @@ def get_screen_size():
     print("Screen height:", screen_height)
 
 
+# ---------- Function to get OS ----------
+def get_os():
+    op_system = platform.platform()
+    cpu = platform.processor()
+    arc = platform.architecture()
+
+    Label(Bottom_r_Frame, text=os, width=50, relief=RAISED).place(x=50, y=180)  # Display results
+    Label(Bottom_r_Frame, text=cpu, width=50, relief=RAISED).place(x=50, y=200)  # Display results
+    Label(Bottom_r_Frame, text=arc, width=50, relief=RAISED).place(x=50, y=220)  # Display results
+
+    print("OS:", os)
+    print("CPU:", cpu)
+    print("Architecture:", arc)
+
+
 # ---------- Function calls Calendar.py ----------
 def call_Calendar_py():
     call('python Calendar.py', shell=True)
@@ -130,8 +149,10 @@ button_1 = Button(Left_frame, text="Get hostname and IP", width=18, command=get_
 button_2 = Button(Left_frame, text="External IP address", width=18, command=get_external_ip).place(x=10, y=60)
 button_3 = Button(Left_frame, text="MAC address", width=18, command=get_mac_address).place(x=10, y=100)
 button_4 = Button(Left_frame, text="Screen size", width=18, command=get_screen_size).place(x=10, y=140)
+button_5 = Button(Left_frame, text="Operating System", width=18, command=get_os).place(x=10, y=180)
 
-button_5 = Button(Left_frame, text="Calendar", width=18, command=call_Calendar_py).place(x=10, y=300)
+
+button_9 = Button(Left_frame, text="Calendar", width=18, command=call_Calendar_py).place(x=10, y=300)
 
 button_10 = Button(Left_frame, text="Close", width=18, command=root.quit).place(x=10, y=340)
 
