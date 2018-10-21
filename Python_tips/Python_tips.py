@@ -1,8 +1,13 @@
 # -*- coding: utf-8 -*-
 #
 # --------------------------------------
-#     List of Python tips and tricks 
+#    List of Python tips and tricks 
 # --------------------------------------
+# Script Name : Python_tips.py
+# Author : Victor Prats
+# Created : 21 Oct 2018
+# Version : 1.0
+# Description : List of Python tips and tricks from internet
 
 # --- Poem Tim Peters ---
 import this
@@ -36,7 +41,6 @@ print(calendar.month(2018, 10))
 # --- Print help from imported module in html ---
 # --- list of modules 'https://docs.python.org/3/py-modindex.html')
 import pydoc
-
 
 pydoc.writedoc("tkinter.messagebox")
 
