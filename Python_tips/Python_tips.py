@@ -49,3 +49,11 @@ pydoc.writedoc("tkinter.messagebox")
 help("tkinter")
 help("datetime")
 help("os")
+
+
+# --- Identify functions pending to implement with TODO and pass ---
+# TODO
+def Search():
+    pass
+  
+  
