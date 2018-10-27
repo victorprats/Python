@@ -133,7 +133,7 @@ def Delete():
         txt_result.config(text="Selecciona un element de la llista", fg="red")
     else:
         result = tkMessageBox.askquestion('Els meus llibres',
-                                          'Estàs segur de voler esborar aquesta entrada?', icon="warning")
+                                          'Estàs segur de voler esborrar aquesta entrada?', icon="warning")
         if result == 'yes':
             curItem = tree.focus()
             contents = (tree.item(curItem))
