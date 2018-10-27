@@ -1,4 +1,4 @@
 <B>Content:</B>
 
-* Els_meus_llibres.py: Aplicació en Phyton amb SQLite3. Base de dades de llibres.
-* white_bg.png: Fons utilitzat en "Els_meus_llibres.py".
+* Els_meus_llibres.py: Phyton app with SQLite3 connection. (Books database).
+* white_bg.png: background used in app "Els_meus_llibres.py".
