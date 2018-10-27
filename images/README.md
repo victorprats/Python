@@ -1,3 +1,3 @@
-Content:
+<B>Content:</B>
 
 * Images repository used in GitHub
