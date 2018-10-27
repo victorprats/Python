@@ -55,5 +55,14 @@ help("os")
 # TODO
 def search():
     pass
-  
+
+
+# --- Print date and time ---
+import datetime
+
+now = datetime.datetime.now()
+time_now = (now.day, now.month, now.year, now.hour, now.minute, now.second)
+print(time_now)
+print(now.day, "/", now.month, "/", now.year)
+print(now.hour, ":", now.minute, ":", now.second)
   
