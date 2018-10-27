@@ -175,8 +175,8 @@ Right.pack(side=RIGHT)
 Forms = Frame(Left, width=300, height=450, bg="white")
 Forms.pack(side=TOP)
 
-filename = PhotoImage(file="C:/Python_projects/white_bg.png")  # Afegit TODO
-background_label = Label(Forms, image=filename)        # --- Mirar a quin frame s'activa
+filename = PhotoImage(file="C:/Python_projects/white_bg.png") # Fons del frame
+background_label = Label(Forms, image=filename)
 background_label.place(x=0, y=0, relwidth=1, relheight=1)
 
 Buttons = Frame(Left, width=300, height=100, bd=8, bg="white", relief="raise")
