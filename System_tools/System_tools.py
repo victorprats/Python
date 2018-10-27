@@ -5,7 +5,7 @@
 # --------------------------------------
 # Script Name : System_tools.py
 # Author : Victor Prats
-# Created : 19 Oct 2018
+# Created : 19 Aug 2018
 # Version : 1.0
 # Description : System information: host name, IP, external IP, MAC address, screen resolution,...
 
