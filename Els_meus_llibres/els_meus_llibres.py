@@ -5,7 +5,7 @@
 # --------------------------------------
 # Script Name : Base_dades_llibres.py
 # Author : Victor Prats
-# Created : xx Oct 2018
+# Created : 27 Oct 2018
 # Version : 1.0
 # Description : Base de dades de llibres
 # Source: This script is a personalized version of ...
