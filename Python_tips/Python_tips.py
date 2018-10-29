@@ -71,6 +71,3 @@ print(now.hour, ":", now.minute, ":", now.second)
 import sys
 
 print("Current Python version: ", sys.version)
-
-
-  
