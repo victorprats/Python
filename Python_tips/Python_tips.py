@@ -65,4 +65,12 @@ time_now = (now.day, now.month, now.year, now.hour, now.minute, now.second)
 print(time_now)
 print(now.day, "/", now.month, "/", now.year)
 print(now.hour, ":", now.minute, ":", now.second)
+
+
+# --- Print Python version ---
+import sys
+
+print("Current Python version: ", sys.version)
+
+
   
