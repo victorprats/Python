@@ -5,7 +5,7 @@
 # --------------------------------------
 # Script Name : System_tools.py
 # Author : Victor Prats
-# Created : 19 Aug 2018
+# Created : 19 Oct 2018
 # Version : 1.0
 # Description : System information: host name, IP, external IP, MAC address, screen resolution,...
 
@@ -15,6 +15,7 @@ import time
 import socket
 import urllib.request
 import uuid
+import sys
 from subprocess import call
 
 host_name = StringVar
@@ -75,8 +76,8 @@ def get_host_name_ip():
         host_name = socket.gethostname()
         host_ip = socket.gethostbyname(host_name)
 
-        Label(Bottom_r_Frame, text=host_name, width=50, relief=RAISED).place(x=50, y=10)  # Display results
-        Label(Bottom_r_Frame, text=host_ip, width=50, relief=RAISED).place(x=50, y=30)  # Display results
+        Label(Bottom_r_Frame, text=host_name, width=55, relief=RAISED).place(x=50, y=10)  # Display results
+        Label(Bottom_r_Frame, text=host_ip, width=55, relief=RAISED).place(x=50, y=30)  # Display results
 
         print("Hostname :  ", host_name)
         print("Internal IP : ", host_ip)
@@ -89,19 +90,21 @@ def get_host_name_ip():
 def get_external_ip():
     external_ip = urllib.request.urlopen('https://ident.me').read().decode('utf8')
 
-    Label(Bottom_r_Frame, text=external_ip, width=50, relief=RAISED).place(x=50, y=60)
+    Label(Bottom_r_Frame, text=external_ip, width=55, relief=RAISED).place(x=50, y=60)
 
     print("External IP: ", external_ip)
 
 
 # ---------- Function to display (MAC address) ----------
 def get_mac_address():
-    from uuid import getnode as get_mac
-    mac = get_mac()
-    print("The MAC address in formatted way is : ", end="")
-    print(':'.join(['{:02x}'.format((uuid.getnode() >> ele) & 0xff)
-                    for ele in range(0, 8 * 6, 8)][::-1]))
-    Label(Bottom_r_Frame, text=mac, width=50, relief=RAISED).place(x=50, y=100)
+    #from uuid import getnode as get_mac
+    #mac = get_mac()
+    #print("The MAC address in formatted way is : ", end="")
+    #print(':'.join(['{:02x}'.format((uuid.getnode() >> ele) & 0xff)
+    #                for ele in range(0, 8 * 6, 8)][::-1]))
+    mac = (':'.join(re.findall('..', '%012x' % uuid.getnode())))
+    Label(Bottom_r_Frame, text=mac, width=55, relief=RAISED).place(x=50, y=100)
+    print("MAC address: ", mac)
 
 
 # ---------- Function to get Screen size ----------
@@ -109,8 +112,8 @@ def get_screen_size():
     screen_width = root.winfo_screenwidth()
     screen_height = root.winfo_screenheight()
 
-    Label(Bottom_r_Frame, text=screen_width, width=50, relief=RAISED).place(x=50, y=140)
-    Label(Bottom_r_Frame, text=screen_height, width=50, relief=RAISED).place(x=50, y=160)
+    Label(Bottom_r_Frame, text=screen_width, width=55, relief=RAISED).place(x=50, y=140)
+    Label(Bottom_r_Frame, text=screen_height, width=55, relief=RAISED).place(x=50, y=160)
 
     print("Screen width:", screen_width)
     print("Screen height:", screen_height)
@@ -122,13 +125,20 @@ def get_os():
     cpu = platform.processor()
     arc = platform.architecture()
 
-    Label(Bottom_r_Frame, text=os, width=50, relief=RAISED).place(x=50, y=180)  # Display results
-    Label(Bottom_r_Frame, text=cpu, width=50, relief=RAISED).place(x=50, y=200)  # Display results
-    Label(Bottom_r_Frame, text=arc, width=50, relief=RAISED).place(x=50, y=220)  # Display results
+    Label(Bottom_r_Frame, text=os, width=55, relief=RAISED).place(x=50, y=180)  # Display results
+    Label(Bottom_r_Frame, text=cpu, width=55, relief=RAISED).place(x=50, y=200)  # Display results
+    Label(Bottom_r_Frame, text=arc, width=55, relief=RAISED).place(x=50, y=220)  # Display results
 
     print("OS:", os)
     print("CPU:", cpu)
     print("Architecture:", arc)
+
+
+# ---------- Python version ----------
+def get_python():
+    python_ver = sys.version
+    Label(Bottom_r_Frame, text=python_ver, width=55, relief=RAISED).place(x=50, y=240)  # Display results
+    print("Current Python version: ", python_ver)
 
 
 # ---------- Function calls Calendar.py ----------
@@ -150,7 +160,7 @@ button_2 = Button(Left_frame, text="External IP address", width=18, command=get_
 button_3 = Button(Left_frame, text="MAC address", width=18, command=get_mac_address).place(x=10, y=100)
 button_4 = Button(Left_frame, text="Screen size", width=18, command=get_screen_size).place(x=10, y=140)
 button_5 = Button(Left_frame, text="Operating System", width=18, command=get_os).place(x=10, y=180)
-
+button_6 = Button(Left_frame, text="Python information", width=18, command=get_python).place(x=10, y=240)
 
 button_9 = Button(Left_frame, text="Calendar", width=18, command=call_Calendar_py).place(x=10, y=300)
 
