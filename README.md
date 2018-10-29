@@ -2,5 +2,5 @@
 
 ![](images/python-logo-glassy.png)
 * Python exercises and projects for learning purposes.
-* Python version 3.7.0
+* Python version 3.7.1
 * https://www.python.org/
