@@ -1,4 +1,4 @@
-Content: 
+<B>Content: </B>
 
 
 * Print_help_in_html.py: Print any package help in html format
