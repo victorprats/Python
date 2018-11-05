@@ -1,2 +1,4 @@
-Deselvolupament d'alguns jocs en Python
+Content:
+
+* Basic games developed with Python.
 
