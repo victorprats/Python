@@ -56,8 +56,7 @@ def inici_joc():
         continua = str(input("> Vols fer un altre partida (s/n)? "))
 
         if continua == "s":
-            contador = 0
-            os.system('python "C:/Python_projects/Game_Endevina_num.py"')
+           os.system('python "C:/Python_projects/Game_Endevina_num.py"')
 
         else:
             exit()
