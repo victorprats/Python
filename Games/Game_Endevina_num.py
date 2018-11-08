@@ -42,7 +42,7 @@ def inici_joc():
         print("> El número que tens que endevinar es més petit.")
         inici_joc()
 
-    if b == a:
+    else:
         print()
         print("> Felicitats!!! ")
         print(" -> Enhorabona!!! ")
@@ -53,7 +53,7 @@ def inici_joc():
         print("*** Ho has encertat en", contador, "intents :)")
 
     # Continuem jugant?
-        continua = str(input("> Vols fer un altre partida (S/N)? "))
+        continua = str(input("> Vols fer un altre partida (s/n)? "))
 
         if continua == "s":
             contador = 0
