@@ -19,4 +19,4 @@
 - If the implementation is easy to explain, it may be a good idea.<BR>
 - Namespaces are one honking great idea -- let's do more of those!<BR><BR>
 
-*<I>Source: https://www.python.org/dev/peps/pep-0020/</I>
+*<I>Source: https://www.python.org/dev/peps/pep-0020/ and https://github.com/python/peps/blob/master/pep-0020.txt</I>
