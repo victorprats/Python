@@ -7,4 +7,4 @@
 * Tkinter_colors_table.py: Tkinter colors table
 * itertools_repeat.py: Functions creating iterators for efficient looping
 * From command prompt: <I>python -m sysconfig</I>
-  ** Print in the standard output returned by: get_platform(), get_python_version(), get_path() and get_config_vars()
+  - Print in the standard output returned by: get_platform(), get_python_version(), get_path() and get_config_vars()
