@@ -14,7 +14,7 @@ import random
 import os
 
 
-a = random.randrange(0, 10)
+a = random.randrange(0, 50)
 
 
 print()
