@@ -41,7 +41,7 @@ def inici_joc():
         print()
         inici_joc()
 
-    if len(num) < 4:
+    elif len(num) < 4:
         print("Si us plau escriu un número de 4 xifres")
         print()
         inici_joc()
@@ -62,7 +62,7 @@ def vols_continuar():
         system('cls')
         system('python "C:/Python_projects/Game_Mentalista.py"')
 
-    if continua == "n":
+    elif continua == "n":
         exit()
 
     else:
