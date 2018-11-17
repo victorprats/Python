@@ -11,7 +11,7 @@
 
 
 import random
-import os
+from os import system
 
 
 a = random.randrange(0, 50)
@@ -51,15 +51,21 @@ def inici_joc():
         print()
         print("*** El número era el: ", b)
         print("*** Ho has encertat en", contador, "intents :)")
+        vols_continuar()
 
-    # Continuem jugant?
-        continua = str(input("> Vols fer un altre partida (s/n)? "))
+# Continuem jugant?
+def vols_continuar():
+    continua = str(input("> Vols fer un altre partida (s/n)? "))
 
-        if continua == "s":
-           os.system('python "C:/Python_projects/Game_Endevina_num.py"')
+    if continua == "s":
+        system('cls')
+        system('python "C:/Python_projects/Game_Endevina_num.py"')
 
-        else:
-            exit()
+    elif continua == "n":
+        exit()
+
+    else:
+        vols_continuar()
 
 
 if __name__ == '__main__':
