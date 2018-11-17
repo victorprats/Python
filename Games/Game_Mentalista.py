@@ -54,15 +54,19 @@ def inici_joc():
         print()
         input(">> Apreta una tecla per continuar.")
 
-    # Continuem jugant?
-        continua = str(input("> Vols fer un altre partida (s/n)? "))
+# Continuem jugant?
+def vols_continuar():
+    continua = str(input("> Vols fer un altre partida (s/n)? "))
 
-        if continua == "s":
-            system('cls')
-            system('python "C:/Python_projects/Game_Mentalista.py"')
+    if continua == "s":
+        system('cls')
+        system('python "C:/Python_projects/Game_Mentalista.py"')
 
-        else:
-            exit()
+    if continua == "n":
+        exit()
+
+    else:
+        vols_continuar()
 
 
 if __name__ == '__main__':
