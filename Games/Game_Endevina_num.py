@@ -37,7 +37,7 @@ def inici_joc():
         print("> El número que tens que endevinar es més gran.")
         inici_joc()
 
-    if b > a:
+    elif b > a:
         print()
         print("> El número que tens que endevinar es més petit.")
         inici_joc()
