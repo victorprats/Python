@@ -6,3 +6,4 @@
 * Selenium with Python: https://selenium-python.readthedocs.io/
 * DB Browser for SQLite: http://sqlitebrowser.org/
 * GitHub Basic writing and formatting syntax: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+* Python 3.7.1 Built-in Functions: https://docs.python.org/3/library/functions.html#open
