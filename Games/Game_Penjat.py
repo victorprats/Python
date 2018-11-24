@@ -55,7 +55,21 @@ def inici_joc():
                 print("\t\t*********** Ohhh... Quina mala sort!!! *************")
                 print("\t\t -------> La paraula era: ", word)
                 print("")
+                vols_continuar()
+
+# Continuem jugant?
+def vols_continuar():
+    continua = str(input("> Vols fer un altre partida (s/n)? "))
+
+    if continua == "s":
+        inici_joc()
+
+    elif continua == "n":
+        exit()
+
+    else:
+        vols_continuar()
+
 
 if __name__ == '__main__':
     inici_joc()
-    
