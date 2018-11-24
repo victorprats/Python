@@ -44,7 +44,8 @@ def inici_joc():
             print("Aquesta lletra no hi es. \n")
         if "_" not in temp:
             print("\t\t*********** Felicitats!!! Has endevinat la paraula *************")
-            break
+            print("")
+            vols_continuar()
         elif attempt == 10:
             guess = input(">>> Per acabar, la paraula és? ")
             if guess == word:
