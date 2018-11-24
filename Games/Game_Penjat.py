@@ -1,11 +1,24 @@
+# -*- coding: utf-8 -*-
+#
+# --------------------------------------
+#           El Penjat v1.0
+# --------------------------------------
+# Script Name : Game_Penjat.py
+# Author : Victor Prats
+# Created : 24 Nov 2018
+# Version : 1.0
+# Description : Joc per endevinar paraula (proba random)
+
+
 import random
 
 index = -1
 dictionary = ("abella", "aranya", "ase", "bou", "burro", "balena", "cabra", "camell", "canari", "cangur", "castor",
               "cavall", "conill", "cargol", "cigne", "cigonya", "coala", "cobra", "cocodril", "colom", "conill",
               "elefant", "escarabat", "formiga", "gos", "gall", "gallina", "gat", "girafa", "guineu", "granota",
-              "guepard", "guineu", "jaguar", "llebre", "lloro", "llop", "mico", "mosca", "mosquit", "ocell", "ovella",
-              "papallona", "peix", "porc", "rata", "rinoceront", "ruc", "tigre", "toro", "tortuga", "vaca", "zebra")
+              "grill", "guepard", "guineu", "jaguar", "llebre", "lloro", "llop", "mico", "mosca", "mosquit", "ocell",
+              "ovella", "papallona", "peix", "porc", "rata", "rinoceront", "ruc", "serp", "tigre", "toro", "tortuga",
+              "vaca", "zebra")
 
 
 def inici_joc():
