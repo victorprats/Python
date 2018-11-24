@@ -12,7 +12,6 @@ word_len = len(word)
 guess = ""
 attempt = 0
 enter = ""
-#print(word)
 temp = "_" * word_len
 
 print("")
