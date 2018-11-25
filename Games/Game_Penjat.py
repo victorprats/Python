@@ -62,7 +62,6 @@ def inici_joc():
         elif attempt == 10:
             guess = input(">>> Per acabar, la paraula és? ")
             if guess == word:
-
                 print("\t\t*********** Felicitats!!! Has endevinat la paraula *************")
             else:
                 print("")
@@ -77,10 +76,8 @@ def vols_continuar():
 
     if continua == "s":
         inici_joc()
-
     elif continua == "n":
         exit()
-
     else:
         vols_continuar()
 
