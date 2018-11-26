@@ -166,9 +166,11 @@ button_9 = Button(Left_frame, text="Calendar", width=18, command=call_Calendar_p
 
 button_10 = Button(Left_frame, text="Close", width=18, command=root.quit).place(x=10, y=340)
 
+
 # ---------- Bottom right Frame and results ----------
 Bottom_r_Frame = Frame(root, background="gray76", width=470, height=380)
 Bottom_r_Frame.pack(side=RIGHT)
+
 
 # ------------------------- Program starts -------------------------
 if __name__ == '__main__':
