@@ -170,4 +170,7 @@ button_10 = Button(Left_frame, text="Close", width=18, command=root.quit).place(
 Bottom_r_Frame = Frame(root, background="gray76", width=470, height=380)
 Bottom_r_Frame.pack(side=RIGHT)
 
-root.mainloop()
+# ------------------------- Program starts -------------------------
+if __name__ == '__main__':
+    root.mainloop()
+
