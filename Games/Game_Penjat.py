@@ -27,7 +27,6 @@ def inici_joc():
     guess = ""
     attempt = 0
     enter = ""
-    #print(word)
     temp = "_" * word_len
 
 
