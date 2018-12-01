@@ -1,4 +1,4 @@
-People
+<B>People</B>
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
