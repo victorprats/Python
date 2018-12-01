@@ -1,4 +1,4 @@
-<B>Content: </B>
+<B>Content: </B> :gift:
 
 
 * Print_help_in_html.py: Print any package help in html format
