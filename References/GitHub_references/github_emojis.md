@@ -67,7 +67,7 @@
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
-Nature
+<B>Nature</B>
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 |---|---|---|
@@ -110,7 +110,7 @@ Nature
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
-Objects
+<B>Objects</B>
 
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 |---|---|---|
@@ -201,7 +201,7 @@ Objects
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-Places
+<B>Places</B>
 
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 |---|---|---|
@@ -241,7 +241,7 @@ Places
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
 
-Symbols
+<B>Symbols</B>
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 |---|---|---|
@@ -311,4 +311,4 @@ Symbols
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
 
 
-:construction: :construction: :construction: :construction: :construction: :construction:
+:construction: :construction: :construction: :construction: :construction: :construction: :construction:
