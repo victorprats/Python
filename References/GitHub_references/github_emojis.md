@@ -310,7 +310,7 @@
 | :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
 
+
 * Emoji cheat sheet
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
-:construction: :construction: :construction: 
