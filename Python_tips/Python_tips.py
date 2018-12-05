@@ -71,3 +71,14 @@ print(now.hour, ":", now.minute, ":", now.second)
 import sys
 
 print("Current Python version: ", sys.version)
+
+
+# 1. Simple HTTP Server from cmd...:
+# python -m http.server
+# python -m http.server 8080
+# python -m http.server --help
+# ------------------------------
+# 2. From internet explorer:
+# localhost:8000
+# Directory listing for /
+
