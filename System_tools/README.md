@@ -1,4 +1,4 @@
 <B>Content:</B>
 
-* System_tools.py: Main file :computer: 
+* System_tools.py: Main file :computer: :information_source:
 * Calendar.py: External calendar in Python called from System_tools.py :calendar:
