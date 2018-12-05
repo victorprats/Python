@@ -35,8 +35,7 @@ def inici():
 
     # Imprimerix títol de columna en posició determinada
     print('-' * 30)
-    # print('{:15}{:20}'.format('Paraula', 'Contador'))
-    print("Paraula", "\t\t\tComptador")
+    print("Paraula", "\t Comptador")
     print('-' * 30)
 
     # Imprimim les paraules i el comptador.
