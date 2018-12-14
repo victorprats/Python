@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 #
 # --------------------------------------
-#            System tools v1.0
+#         System information v1.0
 # --------------------------------------
-# Script Name : System_tools.py
+# Script Name : System_info.py
 # Author : Victor Prats
 # Created : 19 Oct 2018
 # Version : 1.0
