@@ -4,4 +4,4 @@
 * Calendar.py: External calendar in Python called from System_tools.py :calendar:
 
 
-![](/images/System_info.png)
+![](/images/System-info.png)
