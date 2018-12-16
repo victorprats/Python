@@ -7,7 +7,7 @@
 # Author : Victor Prats
 # Created : 16 Dec 2018
 # Version : 1.0
-# Description : Exemples d'automatització amb Python + Selenium
+# Description : Exemples d'automatització amb Python + Selenium + PyAutogui
 
 from tkinter import *
 
