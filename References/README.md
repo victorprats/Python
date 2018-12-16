@@ -11,6 +11,10 @@
 
 <B>Python Newsletters:</B> :newspaper:
 
-- Real Python: https://realpython.com/
-- Awesome Python: https://python.libhunt.com/
-- PyCoder's weekly: https://pycoders.com
+* Real Python: https://realpython.com/
+* Awesome Python: https://python.libhunt.com/
+* PyCoder's weekly: https://pycoders.com
+
+<B>Training materials:</B>
+
+* Socratica Python Programming Tutorials: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
