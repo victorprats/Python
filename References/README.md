@@ -9,7 +9,7 @@
 * PEP 8 -- Style Guide for Python Code: https://www.python.org/dev/peps/pep-0008/
 * Online compiler: http://codepad.org
 
-Python Newsletters:
+<B>Python Newsletters:</B> :newspaper:
 
 - Real Python: https://realpython.com/
 - Awesome Python Newsletter: https://realpython.com/
