@@ -12,5 +12,5 @@
 <B>Python Newsletters:</B> :newspaper:
 
 - Real Python: https://realpython.com/
-- Awesome Python Newsletter: https://realpython.com/
+- Awesome Python Newsletter: https://python.libhunt.com/
 - PyCoder's weekly: https://pycoders.com
