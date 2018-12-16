@@ -87,5 +87,7 @@ print("Current Python version: ", sys.version)
 # ----
 # pip list
 # ---
+# pip show <package-name>
+# ---
 
 
