@@ -15,6 +15,6 @@
 * Awesome Python: https://python.libhunt.com/
 * PyCoder's weekly: https://pycoders.com
 
-<B>Training materials:</B>
+<B>Training materials:</B> :school:
 
 * Socratica Python Programming Tutorials: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
