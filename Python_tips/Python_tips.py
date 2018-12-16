@@ -82,6 +82,7 @@ print("Current Python version: ", sys.version)
 # localhost:8000
 # Directory listing for /
 
+
 # How to know all packages installed with pip
 # ----
 # pip list
