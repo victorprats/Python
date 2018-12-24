@@ -3,7 +3,7 @@
 # --------------------------------------
 #    List of Python tips and tricks 
 # --------------------------------------
-# Script Name : Python_tips.py
+# Script Name : python_tips.py
 # Author : Victor Prats
 # Created : 21 Oct 2018
 # Version : 1.0
