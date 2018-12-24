@@ -3,7 +3,7 @@
 # --------------------------------------
 #      Comptador de paraules v1.0
 # --------------------------------------
-# Script Name : Comptador_paraules.py
+# Script Name : comptador_paraules.py
 # Author : Victor Prats
 # Created : 6 Dec 2018
 # Version : 1.0
