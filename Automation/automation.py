@@ -3,7 +3,7 @@
 # --------------------------------------
 #          Automation exmples
 # --------------------------------------
-# Script Name : Automation.py
+# Script Name : automation.py
 # Author : Victor Prats
 # Created : 16 Dec 2018
 # Version : 1.0
