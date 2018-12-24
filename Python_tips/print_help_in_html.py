@@ -3,7 +3,7 @@
 # --------------------------------------
 #   Print package help in html format 
 # --------------------------------------
-# Script Name : Print_help_in_html.py
+# Script Name : print_help_in_html.py
 # Author : Victor Prats
 # Created : 21 Sep 2018
 # Version : 1.0
