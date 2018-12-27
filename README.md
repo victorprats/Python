@@ -5,3 +5,4 @@
 * Python version used 3.7.1
 * https://www.python.org/
 * https://docs.python.org/3/download.html (Download Python Documentation)
+* The Python Tutorial: https://docs.python.org/3.7/tutorial/index.html
