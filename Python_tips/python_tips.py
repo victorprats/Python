@@ -73,6 +73,11 @@ import sys
 print("Current Python version: ", sys.version)
 
 
+# --- Print Python versionfrom cmd ---
+C:\Python>python -V
+Python 3.7.1
+
+
 # 1. Simple HTTP Server from cmd...:
 # python -m http.server
 # python -m http.server 8080
