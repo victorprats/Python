@@ -1,8 +1,9 @@
 # https://pyautogui.readthedocs.io/en/latest/mouse.html
 #! python3
 
-
 import pyautogui, sys
+
+
 print('Press Ctrl-C to quit.')
 try:
     while True:
