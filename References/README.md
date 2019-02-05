@@ -20,7 +20,7 @@
 
 * Socratica Python Programming Tutorials: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
 
-<B>Tools:</B>
+<B>Tools:</B> :computer:
 
 * Online compiler: http://codepad.org
 * Sphinx (Python Documentation Generator): http://www.sphinx-doc.org/en/master/
