@@ -9,7 +9,6 @@
 * PySimpleGUI: https://github.com/PySimpleGUI/PySimpleGUI
 * Python 3.7.1 Built-in Functions: https://docs.python.org/3/library/functions.html#open
 * PEP 8 -- Style Guide for Python Code: https://www.python.org/dev/peps/pep-0008/
-* Online compiler: http://codepad.org
 
 <B>Python Newsletters:</B> :newspaper:
 
@@ -19,5 +18,9 @@
 
 <B>Training materials:</B> :school:
 
-*l Socratica Python Programming Tutorials: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+* Socratica Python Programming Tutorials: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+
+<B>Tools:</B>
+
+* Online compiler: http://codepad.org
 * Sphinx (Python Documentation Generator): http://www.sphinx-doc.org/en/master/
