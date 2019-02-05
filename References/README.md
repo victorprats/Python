@@ -3,6 +3,7 @@
 * Python.org: https://www.python.org/
 * Python documentation: https://docs.python.org/3/
 * PyInstaller: https://www.pyinstaller.org/
+* PyAutoGUI: https://pyautogui.readthedocs.io/en/latest/index.html
 * Selenium with Python: https://selenium-python.readthedocs.io/
 * DB Browser for SQLite: http://sqlitebrowser.org/
 * PySimpleGUI: https://github.com/PySimpleGUI/PySimpleGUI
