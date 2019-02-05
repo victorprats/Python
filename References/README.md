@@ -19,4 +19,5 @@
 
 <B>Training materials:</B> :school:
 
-* Socratica Python Programming Tutorials: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+*l Socratica Python Programming Tutorials: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+* Sphinx (Python Documentation Generator): http://www.sphinx-doc.org/en/master/
