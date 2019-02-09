@@ -19,8 +19,10 @@
 <B>Training materials:</B> :school:
 
 * Socratica Python Programming Tutorials: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+* GitHub Basic writing and formatting syntax: https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
 
 <B>Tools:</B> :computer:
 
 * Online compiler: http://codepad.org
+* Free docs hosting: https://readthedocs.org
 * Sphinx (Python Documentation Generator): http://www.sphinx-doc.org/en/master/
