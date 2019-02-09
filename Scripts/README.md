@@ -1,1 +1,1 @@
-Collection of code from internet
+* Collection of useful scripts from internet
