@@ -73,7 +73,7 @@ import sys
 print("Current Python version: ", sys.version)
 
 
-# --- Print Python versionfrom cmd ---
+# --- Print Python version from cmd ---
 # C:\Python>python -V
 # Python 3.7.1
 
