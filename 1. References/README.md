@@ -5,6 +5,7 @@
 * PyInstaller: https://www.pyinstaller.org/
 * PyAutoGUI: https://pyautogui.readthedocs.io/en/latest/index.html
 * Selenium with Python: https://selenium-python.readthedocs.io/
+* ChomeDriver: http://chromedriver.chromium.org/getting-started
 * DB Browser for SQLite: http://sqlitebrowser.org/
 * PySimpleGUI: https://github.com/PySimpleGUI/PySimpleGUI
 * Python 3.7.1 Built-in Functions: https://docs.python.org/3/library/functions.html#open
