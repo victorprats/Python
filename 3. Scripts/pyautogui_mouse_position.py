@@ -1,7 +1,7 @@
 # https://pyautogui.readthedocs.io/en/latest/mouse.html
 #! python3
 
-# example_1
+
 import pyautogui, sys
 
 
@@ -14,10 +14,4 @@ try:
         print('\b' * len(positionStr), end='', flush=True)
 except KeyboardInterrupt:
     print('\n')
-    
-# example_2
-import pyautogui
-
-
-pyautogui.displayMousePosition()
-
+  
