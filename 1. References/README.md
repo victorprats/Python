@@ -31,10 +31,8 @@
 
 <B>Forums:</B> :newspaper: :doughnut: :tea:
 
-* stackoverflow.com: 
-
-  https://es.stackoverflow.com/questions/tagged/python <BR>
-  https://stackoverflow.com/questions/tagged/python-3.x <BR>
-  https://foro.recursospython.com <BR>
-  https://www.lawebdelprogramador.com/foros/Python/index1.html <BR>
+* https://es.stackoverflow.com/questions/tagged/python <BR>
+* https://stackoverflow.com/questions/tagged/python-3.x <BR>
+* https://foro.recursospython.com <BR>
+* https://www.lawebdelprogramador.com/foros/Python/index1.html <BR>
   
