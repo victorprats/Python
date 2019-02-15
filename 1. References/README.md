@@ -21,6 +21,7 @@
 
 * Socratica Python Programming Tutorials: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
 * GitHub Basic writing and formatting syntax: https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
+* Python Institute: https://pythoninstitute.org
 
 <B>Tools:</B> :computer:
 
