@@ -32,8 +32,6 @@
 
 * stackoverflow.com: 
 
-  https://es.stackoverflow.com/questions/tagged/python 
-  
-  
-  https://stackoverflow.com/questions/tagged/python-3.x
+  https://es.stackoverflow.com/questions/tagged/python <BR>
+  https://stackoverflow.com/questions/tagged/python-3.x <BR>
   
