@@ -1,1 +1,1 @@
-* Collection of useful scripts from internet :floppy_disk: :cd: :dvd: :shipit:
+* Collection of useful scripts :floppy_disk: :cd: :dvd: :shipit:
