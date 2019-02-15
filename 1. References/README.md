@@ -31,5 +31,6 @@
 <B>Forums:</B> :newspaper: :doughnut: :tea:
 
 * stackoverflow.com: 
-  https://es.stackoverflow.com/questions/tagged/python  https://stackoverflow.com/questions/tagged/python-3.x
+  https://es.stackoverflow.com/questions/tagged/python 
+  https://stackoverflow.com/questions/tagged/python-3.x
   
