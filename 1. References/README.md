@@ -34,4 +34,5 @@
 
   https://es.stackoverflow.com/questions/tagged/python <BR>
   https://stackoverflow.com/questions/tagged/python-3.x <BR>
+  https://foro.recursospython.com <BR>
   
