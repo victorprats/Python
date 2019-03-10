@@ -4,9 +4,7 @@
 * Python documentation: https://docs.python.org/3/
 * Python 3.7.1 Built-in Functions: https://docs.python.org/3/library/functions.html#open
 * PEP 8 -- Style Guide for Python Code: https://www.python.org/dev/peps/pep-0008/
-
 * PyInstaller: https://www.pyinstaller.org/
-
 * PyAutoGUI: https://pyautogui.readthedocs.io/en/latest/index.html
 * Selenium with Python: https://selenium-python.readthedocs.io/
 * ChomeDriver: http://chromedriver.chromium.org/getting-started
@@ -14,9 +12,7 @@
 * Pygame: https://mutagen.readthedocs.io/en/latest/index.html#
 * DB Browser for SQLite: http://sqlitebrowser.org/
 * PySimpleGUI: https://github.com/PySimpleGUI/PySimpleGUI
-
-* Themes for the ttk extenstions for Tkinter: https://pypi.org/project/ttkthemes/
-  https://github.com/RedFantom/ttkthemes  
+* Themes for the ttk extenstions for Tkinter: https://pypi.org/project/ttkthemes/ and https://github.com/RedFantom/ttkthemes
 
 <B>Python Newsletters:</B> :newspaper:
 
