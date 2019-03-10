@@ -6,6 +6,8 @@
 * PyAutoGUI: https://pyautogui.readthedocs.io/en/latest/index.html
 * Selenium with Python: https://selenium-python.readthedocs.io/
 * ChomeDriver: http://chromedriver.chromium.org/getting-started
+* Mutagen: Python module to handle audio metadata. https://mutagen.readthedocs.io/en/latest/index.html#
+* Pygame: https://mutagen.readthedocs.io/en/latest/index.html#
 * DB Browser for SQLite: http://sqlitebrowser.org/
 * PySimpleGUI: https://github.com/PySimpleGUI/PySimpleGUI
 * Python 3.7.1 Built-in Functions: https://docs.python.org/3/library/functions.html#open
