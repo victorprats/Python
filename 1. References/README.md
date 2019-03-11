@@ -12,7 +12,7 @@
 * Pygame: https://mutagen.readthedocs.io/en/latest/index.html#
 * DB Browser for SQLite: http://sqlitebrowser.org/
 * PySimpleGUI: https://github.com/PySimpleGUI/PySimpleGUI
-* Themes for the ttk extenstions for Tkinter: https://pypi.org/project/ttkthemes/ and https://github.com/RedFantom/ttkthemes
+* Themes for the ttk extenstions for Tkinter: https://pypi.org/project/ttkthemes/ https://github.com/RedFantom/ttkthemes  https://ttkthemes.readthedocs.io/en/latest/
 
 <B>Python Newsletters:</B> :newspaper:
 
