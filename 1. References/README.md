@@ -26,6 +26,7 @@
 * GitHub Basic writing and formatting syntax: https://help.github.com/articles/basic-writing-and-formatting-syntax/ 
 * Python Institute: https://pythoninstitute.org
 * Awesome Python: https://awesome-python.com
+* Python podcasts: https://talkpython.fm
 
 <B>Tools:</B> :computer:
 
