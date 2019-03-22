@@ -95,4 +95,17 @@ print("Current Python version: ", sys.version)
 # pip show <package-name>
 # ---
 
+# Show the Zen of Python
+import this
 
+
+# Converting to a single list to string
+import itertools
+a = [[1, 2], [3, 4], [5, 6]]
+list(itertools.chain.from_iterable(a))
+# Result [1, 2, 3, 4, 5, 6]
+
+# Print reverse string
+a = "ManiMurugan"
+print("Reverse is ",a[::-1])
+# Reverse is  naguruMinaM
