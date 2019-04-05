@@ -1,3 +1,3 @@
-<h1>PyCharm tips and references</h1>
+<b>PyCharm tips and references</b>
 
 * PyCharm blog: https://blog.jetbrains.com/pycharm/ 
