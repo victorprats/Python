@@ -1,4 +1,4 @@
-<B>External references:</B>  :books:
+# External references: :books:
 
 * Python.org: https://www.python.org/
 * Python documentation: https://docs.python.org/3/
