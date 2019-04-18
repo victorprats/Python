@@ -1,4 +1,4 @@
-<B>Automation examples</B> :robot:
+# Automation examples :robot:
 
 Content:
 * Automation.py: Automation with Python + Selenium + PyAutogui
