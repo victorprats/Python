@@ -1,4 +1,4 @@
-<B>Els meus llibres</B> :blue_book: :orange_book: :green_book:
+# Els meus llibres :blue_book: :orange_book: :green_book:
 
 Content:
 * Els_meus_llibres.py: Phyton app with SQLite3 connection. (Books database).
