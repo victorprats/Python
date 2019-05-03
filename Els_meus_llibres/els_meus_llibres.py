@@ -29,7 +29,7 @@ root.geometry('%dx%d+%d+%d' % (width, height, x, y))
 root.resizable(0, 0)
 
 
-# ------------------------- Funcions (Crear bbdd, crear entrada nova, llegir bbddd,...) -------------------------
+# ------------------------- Funcions (Crear bbdd, crear entrada nova, llegir bbdd,...) -------------------------
 def Database():
     global conn, cursor
     conn = sqlite3.connect('els_meus_llibres.db')
