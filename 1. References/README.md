@@ -30,7 +30,8 @@
 
 <B>Tools:</B> :computer:
 
-* Online compiler: http://codepad.org
+* Jupyter notebook online: https://jupyter.org/try
+* Another online compiler: http://codepad.org
 * Free docs hosting: https://readthedocs.org
 * Sphinx (Python Documentation Generator): http://www.sphinx-doc.org/en/master/
 
