@@ -27,9 +27,10 @@ for key in range(len(LETTERS)):
 
             # add number's symbol at the end of translated
             translated = translated + LETTERS[num]
-         else:
-             # just add the symbol without encrypting/decrypting
-             translated = translated + symbol
+
+        else:
+            # just add the symbol without encrypting/decrypting
+            translated = translated + symbol
 
 
     # display the current key being tested, along with its decryption
