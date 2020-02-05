@@ -1,4 +1,5 @@
-#pip install win10toast
+# https://pypi.org/project/win10toast/
+# pip install win10toast
 
 from win10toast import ToastNotifier
 
