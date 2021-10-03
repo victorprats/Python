@@ -13,6 +13,7 @@
 * DB Browser for SQLite: http://sqlitebrowser.org/
 * PySimpleGUI: https://github.com/PySimpleGUI/PySimpleGUI
 * Themes for the ttk extenstions for Tkinter: https://pypi.org/project/ttkthemes/ https://github.com/RedFantom/ttkthemes  https://ttkthemes.readthedocs.io/en/latest/
+* Ultimate Python Cheat Sheet: https://eric-the-coder.com/ultimate-python-cheat-sheet
 
 <B>Python Newsletters:</B> :newspaper:
 
